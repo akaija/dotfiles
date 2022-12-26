@@ -43,4 +43,3 @@ setopt INC_APPEND_HISTORY_TIME
 setopt EXTENDED_HISTORY
 
 alias ls='ls --color'
-alias vps="$HOME/.bin/cmd/vps"
