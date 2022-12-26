@@ -1,0 +1,29 @@
+*.foreground:   #ffffff
+*.background:   #000000
+*.cursorColor:  #3ddbd9
+*.color0:       #000000
+*.color8:       #000000
+*.color1:       #be95ff
+*.color9:       #be95ff
+*.color2:       #c1c7cd
+*.color10:      #c1c7cd
+*.color3:       #3ddbd9
+*.color11:      #3ddbd9
+*.color4:       #0f62fe
+*.color12:      #0f62fe
+*.color5:       #ff7eb6
+*.color13:      #ff7eb6
+*.color6:       #e5f6ff
+*.color14:      #e5f6ff
+*.color7:       #ffffff
+*.color15:      #ffffff
+
+URxvt.font: xft:IBM Plex Mono:Regular:size=10
+URxvt.letterSpace: -1
+URxvt.scrollBar: False
+
+URxvt.perl-ext-common: default,matcher,tabbed
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+
+Xcursor.size: 64
